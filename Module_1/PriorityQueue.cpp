@@ -148,7 +148,7 @@ T Priority_queue<T, Comparator>::extract_min() {
 }
 
 int main() {
-    Priority_queue<User, > q;
+    Priority_queue<User> q;
     size_t N = 0;
     size_t K = 0;
     std::cin >> N >> K;
